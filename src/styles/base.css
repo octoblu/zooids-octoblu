@@ -13,12 +13,12 @@ html, body, #app, #app > div {
 }
 
 body {
-  margin: 0;
+  margin: 1;
 
   color: #485264;
   font-family: "citrixsans-regular", Arial, Helvetica, sans-serif;
-  font-size: 16px;
-  line-height: 1.4;
+  font-size: 14px;
+  line-height: 1.6;
 
   background: #F4F5F6;
 
@@ -30,8 +30,8 @@ body {
   }
 
   @media (min-width: 1200px) {
-    font-size: 20px;
-    line-height: 1.4;
+    font-size: 18px;
+    line-height: 1.6;
   }
 }
 
