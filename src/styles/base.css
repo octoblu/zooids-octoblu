@@ -3,7 +3,7 @@ html {
   box-sizing: border-box;
 }
 
-html, body, #app, #app > div {
+html, body, #app, #app div {
   height:100%;
   width:100%;
 }
